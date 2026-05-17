@@ -1,5 +1,4 @@
-@"
-# 🏅 OlympycShare
+#  OlympycShare
 
 Rede social esportiva para conexão e organização de eventos.
 
