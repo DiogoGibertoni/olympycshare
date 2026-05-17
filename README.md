@@ -34,12 +34,3 @@ npm run dev
 
 - **Método:** Scrum adaptado com Kanban
 - **Sprints:** 2 semanas
-
-## Disciplina
-
-Gestão de Projetos e Métodos Ágeis — PUCPR 2026/1 — Profª Aline Bampi
-"@ | Set-Content "README.md"
-
-git add README.md
-git commit -m "docs: corrigir acentos e simplificar README"
-git push origin main
