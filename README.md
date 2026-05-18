@@ -14,6 +14,7 @@ O OlympycShare conecta pessoas que desejam praticar esportes, permitindo a cria√
 - Silvio Cesar
 - Lucas Bertoli
 - Diogo Gibertoni
+- Murilo Paes
 
 ## Tech Stack
 
